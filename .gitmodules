@@ -1,3 +1,6 @@
 [submodule "2022.1"]
 	path = 2022.1
 	url = https://github.com/vitimon/2022.1
+[submodule "2022.2"]
+	path = 2022.2
+	url = https://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@github.com/vitimon/2022.2
